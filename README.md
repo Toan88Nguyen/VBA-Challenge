@@ -1,5 +1,7 @@
 # VBA Homework: The VBA of Wall Street
 
+![stockmarket](https://user-images.githubusercontent.com/120751287/233563584-e1a1f039-0272-43d0-898e-0d233e46609b.jpg)
+
 ## Background
 
 I am well on my way to becoming a programmer and Excel master! In this homework assignment, I will use VBA scripting to analyze generated stock market data. Depending on my comfort level with VBA, I may choose to challenge myself with a few of the challenge tasks.
